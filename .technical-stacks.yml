@@ -1,4 +1,5 @@
 techstack:
   application:
     - laravelinsight:9.8
+    - laravelinsight:10
   
