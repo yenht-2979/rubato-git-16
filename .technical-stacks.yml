@@ -1,5 +1,4 @@
 techstack:
   application:
-    - laravelinsight:9.8
-    - laravelinsight:10
-  
+    - Yentest16_1:16.3
+    - Yentest17_1:17.5
