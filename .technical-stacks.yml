@@ -1,5 +1,6 @@
 techstack:
   application:
-    - Yentest16_1:16.3
-    - Yentest17_1:17.5
-    - techstack_git:34.5
+    - frame4
+    - frame3
+    - frame2
+    - frame1
